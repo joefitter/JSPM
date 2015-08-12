@@ -16,8 +16,7 @@
     "directories": {},
     "dependencies": {
       "jspm-test": "npm:jspm-test@^0.0.47",
-      "jspm-test2": "npm:jspm-test2@^0.0.7",
-      "orchestra-bingo": "npm:orchestra-bingo@^14.2.6"
+      "jspm-test2": "npm:jspm-test2@^0.0.7"
     },
     "devDependencies": {
       "babel": "npm:babel-core@^5.1.13",

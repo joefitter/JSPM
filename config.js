@@ -19,7 +19,6 @@ System.config({
     "core-js": "npm:core-js@0.9.18",
     "jspm-test": "npm:jspm-test@0.0.47",
     "jspm-test2": "npm:jspm-test2@0.0.7",
-    "orchestra-bingo": "npm:orchestra-bingo@14.2.6",
     "github:jspm/nodelibs-path@0.1.0": {
       "path-browserify": "npm:path-browserify@0.0.0"
     },
@@ -140,9 +139,6 @@ System.config({
     "npm:lodash@3.10.1": {
       "process": "github:jspm/nodelibs-process@0.1.1"
     },
-    "npm:ms-signalr-client@2.2.2": {
-      "jquery": "npm:jquery@2.1.4"
-    },
     "npm:numeral@1.5.3": {
       "fs": "github:jspm/nodelibs-fs@0.1.2"
     },
@@ -150,10 +146,6 @@ System.config({
       "path": "github:jspm/nodelibs-path@0.1.0",
       "process": "github:jspm/nodelibs-process@0.1.1",
       "wordwrap": "npm:wordwrap@0.0.3"
-    },
-    "npm:orchestra-bingo@14.2.6": {
-      "gua-browserify": "github:BedeGaming/gua-browserify@master",
-      "ms-signalr-client": "npm:ms-signalr-client@2.2.2"
     },
     "npm:path-browserify@0.0.0": {
       "process": "github:jspm/nodelibs-process@0.1.1"
